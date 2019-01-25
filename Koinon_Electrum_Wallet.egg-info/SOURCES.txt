@@ -391,6 +391,7 @@ icons/info.png
 icons/keepkey.png
 icons/keepkey_unpaired.png
 icons/key.png
+icons/koinon-logo.png
 icons/koinon.png
 icons/ledger.png
 icons/ledger_unpaired.png
